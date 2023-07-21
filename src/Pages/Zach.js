@@ -1,18 +1,25 @@
 import React from "react";
-import { Button, Container, Typography } from "@mui/material";
+import { Box, Button, Container, Typography } from "@mui/material";
 import SimpleBottomNavigation from "./Components/BottomNav.js";
 import DenseAppBar from "./Components/TopNavbar.js";
 import HubInfo from "./Components/HubInfo.js";
+import ResponsiveDrawer from "./Components/Drawer.js";
+import BasicCard from "./Components/Content.js";
+import fitlogo from "../Assets/images/fitlogo.png";
 
 function Zach() {
   return (
     <div>
       <DenseAppBar />
       <Container>
-        <Typography variant="h2">Google Fit</Typography>
-        <Button variant="contained">Hello World</Button>
+      <Box variant="outlined" display="flex" justifyContent="center" alignItems="center" sx={{pt: 5, pb: 5}}>
+   <img src={fitlogo} />
+</Box>
+        {/* <Typography variant="h2">Google Fit</Typography> */}
+        <BasicCard/>
         <HubInfo />
         <SimpleBottomNavigation />
+        {/* <ResponsiveDrawer/> */}
       </Container>
     </div>
   );

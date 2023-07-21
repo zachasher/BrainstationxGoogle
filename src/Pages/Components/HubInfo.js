@@ -15,8 +15,8 @@ function HubInfo() {
     justifyContent="center"
     alignItems="center">
       <Card sx={{ width: 1 }}>
-      <Typography variant="h3" component="h2">
-        AI Hub
+      <Typography variant="h5" component="h2">
+        Ways in which AI can improve your health
       </Typography>
       <Typography variant="body1" component="h2" sx={{color:"grey"}}>
         Learn everything you need to about AI
