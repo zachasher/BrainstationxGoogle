@@ -8,7 +8,7 @@ function Amr() {
       Amr
       <Button variant="contained">Hello World</Button>
       
-      <Card variant="outlined"><iframe width="900" height="800" frameborder="0" scrolling="no"
+      <Card variant="outlined"><iframe width="90vw" height="60vh" frameborder="0" scrolling="no"
       src="//plot.ly/~plotly2_demo/481.embed"></iframe></Card>
       </div>
     
