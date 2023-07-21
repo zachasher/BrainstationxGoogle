@@ -14,7 +14,7 @@ function HubInfo() {
     <Box display="flex"
     justifyContent="center"
     alignItems="center">
-      <Card sx={{ width: 1/2 }}>
+      <Card sx={{ width: 1 }}>
       <Typography variant="h3" component="h2">
         AI Hub
       </Typography>
@@ -27,7 +27,7 @@ function HubInfo() {
             aria-controls="panel1a-content"
             id="panel1a-header"
           >
-            <Typography sx={{ color: "#4285F4" }}>1. </Typography>
+            <Typography sx={{ color: "#4285F4" }}>1. How AI can improve your health</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
