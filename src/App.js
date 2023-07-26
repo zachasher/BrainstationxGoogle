@@ -9,7 +9,7 @@ function App() {
   return (
       <BrowserRouter>
       <Routes>
-        <Route path="/zach" element={<Zach/>}/>
+        <Route path="/" element={<Zach/>}/>
         <Route path="/amr" element={<Amr/>}/>
         <Route path="/nav" element={<SimpleBottomNavigation/>}/>
       </Routes>

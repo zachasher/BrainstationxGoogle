@@ -13,7 +13,7 @@ function Zach() {
       <DenseAppBar />
       <Container>
       <Box variant="outlined" display="flex" justifyContent="center" alignItems="center" sx={{pt: 5, pb: 5}}>
-   <img src={fitlogo} />
+   <img height={150} src={fitlogo} />
 </Box>
         {/* <Typography variant="h2">Google Fit</Typography> */}
         <BasicCard/>

@@ -9,7 +9,7 @@ import Logo from "../../Assets/images/share.png"
 
 export default function DenseAppBar() {
   return (
-    <Box sx={{ flexGrow: 1 }}>
+    <Box sx={{ flexGrow: 1}}>
       <AppBar position="static" sx={{ background: 'white' }}>
         <Toolbar variant="dense">
           <IconButton edge="start" color="black" aria-label="menu" sx={{ mr: 2 }}>
