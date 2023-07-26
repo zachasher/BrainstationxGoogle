@@ -33,8 +33,7 @@ export default function BasicCard() {
       display="flex"
       justifyContent="center"
       alignItems="center"
-      backgroundRepeat="no-repeat"
-      backgroundSize="cover">
+      >
       <img src={image2} className="sports-image" alt="sports image"/>
     </Box>
       </CardContent>
