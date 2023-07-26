@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.ed3c400c.css",
+    "main.js": "/react-gh-pages/static/js/main.9de84201.js",
+    "static/media/image2.png": "/react-gh-pages/static/media/image2.a0f2e87de8fe0b2daa46.png",
+    "static/media/Screen Shot 2023-07-21 at 3.25.33 PM.png": "/react-gh-pages/static/media/Screen Shot 2023-07-21 at 3.25.33 PM.1f70684e024c272a7ac8.png",
+    "static/media/share.png": "/react-gh-pages/static/media/share.9ac99c7a68b16fbe37b2.png",
+    "static/media/fitlogo.png": "/react-gh-pages/static/media/fitlogo.6e42793983f8dded2abc.png",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.ed3c400c.css.map": "/react-gh-pages/static/css/main.ed3c400c.css.map",
+    "main.9de84201.js.map": "/react-gh-pages/static/js/main.9de84201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed3c400c.css",
+    "static/js/main.9de84201.js"
+  ]
+}
