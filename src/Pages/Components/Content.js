@@ -1,13 +1,9 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import Card from "@mui/material/Card";
-import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
-import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import image2 from "../../Assets/images/image2.png";
-import { Paper } from "@mui/material";
-import { WidthFull } from "@mui/icons-material";
 import "./hub-info.css";
 
 const bull = (
@@ -37,7 +33,6 @@ export default function BasicCard() {
       display="flex"
       justifyContent="center"
       alignItems="center"
-    //   backgroundImage="url('../../Assets/images/image2.png')"
       backgroundRepeat="no-repeat"
       backgroundSize="cover">
       <img src={image2} className="sports-image"/>
