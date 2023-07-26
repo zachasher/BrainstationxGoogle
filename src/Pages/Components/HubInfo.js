@@ -45,7 +45,7 @@ function HubInfo() {
             <Typography>
             AI-powered devices can be used to monitor biometric data, such as heart rate, blood pressure, and blood sugar levels, in real time. This data can be used to track progress, identify potential health problems, and provide personalized feedback to help people stay healthy.
             </Typography>
-            <img src={graph} className="graph-image" alt="graph image"/>
+            <img src={graph} className="graph-image" alt="graph"/>
           </AccordionDetails>
         </Accordion>
         <Accordion>

@@ -18,7 +18,7 @@ function Zach() {
           alignItems="center"
           sx={{ pt: 5, pb: 5 }}
         >
-          <img height={150} src={fitlogo} />
+          <img height={150} src={fitlogo} alt="Google Fit"/>
         </Box>
         <BasicCard />
         <HubInfo />

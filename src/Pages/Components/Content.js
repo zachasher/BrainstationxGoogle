@@ -6,15 +6,6 @@ import Typography from "@mui/material/Typography";
 import image2 from "../../Assets/images/image2.png";
 import "./hub-info.css";
 
-const bull = (
-  <Box
-    component="span"
-    sx={{ display: "inline-block", mx: "2px", transform: "scale(0.8)" }}
-  >
-    •
-  </Box>
-);
-
 export default function BasicCard() {
   return (
     <Card sx={{ width: 1, mb: 5 }}>
@@ -34,7 +25,7 @@ export default function BasicCard() {
       justifyContent="center"
       alignItems="center"
       >
-      <img src={image2} className="sports-image" alt="sports image"/>
+      <img src={image2} className="sports-image" alt="sports"/>
     </Box>
       </CardContent>
     </Card>
